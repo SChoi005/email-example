@@ -13,3 +13,4 @@ To use Gmail's SMTP server, the following setting are needed for outgoing emails
 When SMTP server is Gmail, there might be additional setting to need.<br/>
 ex) secondary password, App password <br/>
 At the time, app password applies to spring.mail.password in application.properties
+![image](https://user-images.githubusercontent.com/64727012/160270302-39ee4051-bc84-48b5-91f4-8b3ba200686a.png)
