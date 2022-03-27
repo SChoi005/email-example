@@ -10,6 +10,6 @@ To use Gmail's SMTP server, the following setting are needed for outgoing emails
 5. password : your Gmail password
 6. Port : 465(SSL required) or 587(TLS required)
 
-When SMTP server is Gmail, there might be additional setting to need.
-ex) secondary password, App password
-At the time, app password applies to spring.mail.password
+When SMTP server is Gmail, there might be additional setting to need.<br/>
+ex) secondary password, App password <br/>
+At the time, app password applies to spring.mail.password in application.properties
