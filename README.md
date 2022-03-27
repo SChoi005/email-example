@@ -1,4 +1,4 @@
-### SMTP ( Simple Mail Transfer Protocol )
+### SMTP ( Simple Mail Transfer Protocol )<br/>
 ## SMTP is the basic standard that mail servers use to send email to one another across the Internet.
 <br/>
 First of all, add "implementation 'org.springframework.boot:spring-boot-starter-mail'" in build.gradle.
