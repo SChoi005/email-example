@@ -1,7 +1,10 @@
 # SMTP ( Simple Mail Transfer Protocol )
 > SMTP is the basic standard that mail servers use to send email to one another across the Internet.
 
-#### First of all, add "implementation 'org.springframework.boot:spring-boot-starter-mail'" in build.gradle.
+#### First of all, add in build.gradle.
+```bash
+implementation 'org.springframework.boot:spring-boot-starter-mail'
+````
 
 #### To use Gmail's SMTP server, the following setting are needed for outgoing emails.
 
